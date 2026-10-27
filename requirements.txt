@@ -1,0 +1,10 @@
+
+streamlit
+langgraph
+fastapi
+uvicorn[standard]
+requests
+apscheduler
+pandas
+openpyxl
+python-dotenv
